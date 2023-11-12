@@ -1,0 +1,139 @@
+{
+    "TimeTravelPhysics": {
+        "QuantumTheories": [
+            "Many-Worlds Interpretation",
+            "Quantum Entanglement",
+            "Closed Timelike Curves"
+        ],
+        "TimelineMechanics": {
+            "TemporalParadoxes": [
+                "Grandfather Paradox",
+                "Bootstrap Paradox",
+                "Predestination Paradox"
+            ],
+            "MultiverseTheory": true
+        }
+    },
+    "GameTimeline": {
+        "OriginalEvents": {
+            "1984": [
+                "Jack Deth Sent Back in Time",
+                "Encounter with Lena",
+                "Investigating the Trancer Phenomenon",
+                "Confrontation and Defeat of Whistler",
+                "Adapting to Life in the Past"
+            ],
+            "1991": [
+                "Reappearance of Whistler",
+                "Jack Deth's Continued Mission",
+                "Reunion with Lena",
+                "Battle Against Whistler and Lena",
+                "Defeating Whistler",
+                "Resolution and Aftermath"
+            ],
+            "1992": [
+                "Emergence of New Threat",
+                "Jack's Tactical Approach",
+                "Confrontation with Shark",
+                "Defeating the New Threat",
+                "Transition and Continuation"
+            ],
+            "1994": [
+                "Return to the Future",
+                "Introduction of Shaleen",
+                "Facing New Threats",
+                "Overcoming Challenges",
+                "Resolution and Continuity"
+            ],
+            "2002": [
+                "Resurrection of Whistler",
+                "Jack's Renewed Mission",
+                "Final Confrontation with Whistler",
+                "Defeating Whistler",
+                "Closure and Legacy"
+            ],
+            "2013": [
+                "Return to Modern Los Angeles",
+                "Adaptation to Modern Times",
+                "Encountering New Challenges",
+                "Short Adventure with High Stakes",
+                "Reflection on Legacy and Future"
+            ],
+            "2023": [
+                "Transformation into AI",
+                "Cyberpunk Setting",
+                "New Threats and Challenges",
+                "Thrilling Finale",
+                "Reflection on Evolution and Legacy"
+            ]
+        },
+        "PlayerImpacts": {
+            "1984": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            },
+            "1991": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            },
+            "1992": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            },
+            "1994": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            },
+            "2002": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            },
+            "2013": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            },
+            "2023": {
+                "AlteredEvents": [],
+                "ParadoxRisk": 0
+            }
+        }
+    },
+    "PlayerChoices": {
+        "CurrentYear": 2023,
+        "VisitedYears": [],
+        "Decisions": [],
+        "CurrentTimelineStatus": "Stable"
+    },
+    "NavigationSystem": {
+        "CurrentLocation": 2023,
+        "AvailableYears": [
+            1984,
+            1991,
+            1992,
+            1994,
+            1994,
+            2002,
+            2013,
+            2023
+        ],
+        "TemporalEnergy": 100
+    },
+    "ChronoEffects": {
+        "RetroactiveChanges": {
+            "2077": {
+                "Background": "In the year 2077, advanced AI and time-travel technology have been developed. The player is assisted by an AI to ensure the integrity of the Trancers timeline.",
+                "KeyChallenges": [
+                    "Maintaining timeline integrity",
+                    "Navigating complex quantum theories",
+                    "Managing temporal energy resources"
+                ],
+                "PlayerObjectives": [
+                    "Follow the original Trancers events",
+                    "Prevent paradoxes",
+                    "Adapt to changes in the timeline"
+                ]
+            }
+        },
+        "OverallTimelineIntegrity": 100
+    }
+}
